@@ -1,16 +1,9 @@
-# tactics_timer
+# Tactics Timer
 
-A new Flutter application.
+A super simple timer app to help me practice chess tactics problems. The app shows a timer onscreen that counts down from 2 minutes. When it reaches 0, the screen turns red. At any point the user can tap the screen to reset the timer to 2 minutes. A simple tool, but it's helped me be more systematic with my tactics training.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+First set up the flutter CLI and run `flutter doctor` to find and resolve any issues with your setup. Then plug in an iPhone or Android, set it to debugging mode, and `flutter run` to install and run the app on your phone.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enjoy!
