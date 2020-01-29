@@ -1,4 +1,4 @@
-name: tactics_timer
+name: boggle_board
 description: A new Flutter application.
 
 # The following defines the version and build number for your application.
@@ -25,6 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   quiver: ^2.0.5
   flutter_launcher_icons: ^0.7.4
+  tuple: ^1.0.3
 
 dev_dependencies:
   flutter_test:
